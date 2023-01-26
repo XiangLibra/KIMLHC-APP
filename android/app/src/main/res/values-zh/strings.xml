@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tfe_pe_app_name">LHCAPP</string>
+    <string name="tfe_pe_request_permission">未獲得相機權限制，應用無法運行</string>
+    <string name="tfe_pe_tv_score">置信分数: %.2f</string>
+    <string name="tfe_pe_tv_model">模型版本: MoveNet Thunder</string>
+    <string name="tfe_pe_tv_fps">檢測偵率: %d</string>
+    <string name="tfe_pe_tv_debug">調適信息: %s</string>
+    <string name="tfe_pe_tv_device">運算設備: </string>
+    <string name="tfe_pe_tv_camera">攝影鏡頭: </string>
+
+    <string-array name="tfe_pe_camera_name">
+        <item>后置</item>
+        <item>前置</item>
+    </string-array>
+</resources>
